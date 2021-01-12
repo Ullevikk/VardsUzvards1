@@ -2,6 +2,6 @@
 using namespace std; 
 int main() { 
   int a=1; 
-  cout << "OM-" << a; 
+  cout << "JB-" << a; 
   a++;
 } 
